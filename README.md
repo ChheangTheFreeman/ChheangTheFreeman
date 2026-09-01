@@ -14,9 +14,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 📊 GitHub Stats
-![ChheangTheFreeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChheangTheFreeman&show_icons=true&theme=default)
-
 ---
 
 ⭐️ From [ChheangTheFreeman](https://github.com/ChheangTheFreeman)
